@@ -1,0 +1,25 @@
+
+		***************  mmtspl-cloud-config-db-service port : 9008 *******************
+SpringBoot
+SpringCloudConfigServer
+Spring Exceptions
+Spring JUnit Testing
+
+Start up the application :
+	1. Build and Run the application using Maven Build with   spring-boot:run
+	
+Url
+	
+   ---------------------------------------   MySQL DB URLs  -----------------------------------------------------
+
+   http://localhost:9008/cloud-config-db-service/mysql-db-cloud-urls
+
+   
+   http://localhost:9008/cloud-config-db-service-local-host/getLocalHostAddress
+   
+
+  	
+  	
+   
+   
+   
